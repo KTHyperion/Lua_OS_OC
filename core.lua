@@ -1,3 +1,1 @@
-while true do
-    a = 1
-end
+-- The core of the OS will be developed later.

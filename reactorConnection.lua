@@ -9,7 +9,7 @@ monitor.bind(monitorSerial)
 
 re = component.proxy(reactorSerial)
 
--- reactorGraphics will further work with both monitor and reactor's data.
+-- reactorGraphics will manipulate both monitor and reactor's data.
 os.execute("reactorGraphics monitor re")
 
 -- THIS SCRIPT IS CONCLUDED
